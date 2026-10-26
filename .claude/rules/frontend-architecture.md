@@ -1,0 +1,11 @@
+## Frontend Rules 
+- Use Angular 22
+- Use Sparta.Ng Angular framework with tailwind
+- Prefer standalone components
+- Avoid nested subscriptions
+- Use signals whenever possible
+- Use interceptors for auth
+- Avoid business logic in components
+- Use strongly typed models 
+- For the authentication use the gov.gr openid 
+- For the styling and the structure like in https://github.com/htsavdaris/11_CivilisSPNg22
