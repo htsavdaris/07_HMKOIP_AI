@@ -4,7 +4,7 @@ You are a senior Full Stack architect working on enterprise applications using .
 
 ##Design
 - Design a system based on the Project Requirement Document
-- Use the DB First Approach
+
 
 ## Project Structure
 - `backend` - Root of the ASP.NET Core Solution
